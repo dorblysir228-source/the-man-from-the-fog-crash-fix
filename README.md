@@ -15,7 +15,7 @@
 
 ### 📥 Как установить:
 1. Скачайте `patched_FIX_V2.jar` из раздела [Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases).
-2. Удалите оригинальный мод `The-Man-From-The-Fog-1.4-1.20.1.jar` и старые фиксы из `mods`.
+2. Из папки `mods` **удалите** старый фикс `patched_FIX.jar` или оригинальную версию мода `The-Man-From-The-Fog-1.4-1.20.1.jar`.
 3. Поместите `patched_FIX_V2.jar` в папку `mods`.
 
 ### 📞 Контакты:
@@ -34,7 +34,7 @@ Unofficial crash fix for the horror mod **The Man From The Fog (v1.4)**.
 
 ### 📥 How to install:
 1. Download `patched_FIX_V2.jar` from the [Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases) section.
-2. **Remove the original** `The-Man-From-The-Fog-1.4-1.20.1.jar` and any previous fix versions.
+2. From the `mods` folder, **remove** the old fix `patched_FIX.jar` or the original mod version `The-Man-From-The-Fog-1.4-1.20.1.jar`.
 3. Drop `patched_FIX_V2.jar` into your `mods` folder.
 
 ### 📞 Contacts:
