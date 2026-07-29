@@ -1,8 +1,6 @@
 # 💀 The Man From The Fog — Jumpscare Crash Fix (Forge 1.20.1)
 
-![Minecraft Version](https://shields.io)
-![Loader](https://shields.io)
-[![Telegram](https://shields.io)](https://t.me)
+📌 **Minecraft:** 1.20.1 | ⚙️ **Loader:** Forge | ✈️ **Telegram:** [@luwvu](https://t.me/luwvu)
 
 ## 🇷🇺 Описание проекта
 Неофициальное исправление критической ошибки для хоррор-мода **The Man From The Fog (версия 1.4)**.
