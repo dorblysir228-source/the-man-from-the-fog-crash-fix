@@ -5,16 +5,15 @@
 [![Telegram](https://shields.io)](https://t.me)
 
 ## 🇷🇺 Описание проекта
-
 Неофициальное исправление критической ошибки для хоррор-мода **The Man From The Fog (версия 1.4)**.
 
 ### Что исправлено в версии V2:
-- Устранён вылет (NullPointerException) в `JumpscareDisplayOverlayIngameProcedure`.
+- Устранён вылет (`NullPointerException`) в `JumpscareDisplayOverlayIngameProcedure`.
 - Игра не закрывается при смерти; исправлены утечки памяти.
 - Повышена стабильность, код пропатчен через **Recaf**.
 
 ### 📥 Как установить:
-1. Скачайте `patched_FIX_V2.jar` из раздела [Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases).
+1. Скачайте `patched_FIX_V2.jar` из раздела **[Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases)** справа.
 2. Из папки `mods` **удалите** старый фикс `patched_FIX.jar` или оригинальную версию мода `The-Man-From-The-Fog-1.4-1.20.1.jar`.
 3. Поместите `patched_FIX_V2.jar` в папку `mods`.
 
@@ -24,7 +23,6 @@
 ---
 
 ## 🇺🇸 English Description
-
 Unofficial crash fix for the horror mod **The Man From The Fog (v1.4)**.
 
 ### What's fixed in V2:
@@ -33,7 +31,7 @@ Unofficial crash fix for the horror mod **The Man From The Fog (v1.4)**.
 - Patched manually using **Recaf**.
 
 ### 📥 How to install:
-1. Download `patched_FIX_V2.jar` from the [Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases) section.
+1. Download `patched_FIX_V2.jar` from the **[Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases)** section on the right.
 2. From the `mods` folder, **remove** the old fix `patched_FIX.jar` or the original mod version `The-Man-From-The-Fog-1.4-1.20.1.jar`.
 3. Drop `patched_FIX_V2.jar` into your `mods` folder.
 
