@@ -9,13 +9,13 @@
 * Код мода был успешно модифицирован и исправлен вручную через **Recaf**.
 
 ### 📥 Как установить:
-1. Перейдите во вкладку [Releases](https://github.com) справа.
+1. Перейдите во вкладку [Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases) справа.
 2. Скачайте файл `patched_FIX.jar`.
 3. Перейдите в папку `.minecraft/mods` и **удалите оригинальный файл** `The-Man-From-The-Fog-1.4-1.20.1.jar`.
 4. Поместите скачанный файл `patched_FIX.jar` в папку `mods`.
 
 ### 📞 Контакты:
-* ✈️ **Telegram:** [@luwvu](https://t.me)
+* ✈️ **Telegram:** [@luwvu](https://t.me/luwvu)
 
 ---
 
@@ -28,10 +28,10 @@ Unofficial crash fix for the horror mod **The Man From The Fog (v1.4)**.
 * Patched manually using bytecode manipulation via **Recaf**.
 
 ### 📥 How to install:
-1. Go to the [Releases](https://github.com) section on the right.
+1. Go to the [Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases) section on the right.
 2. Download `patched_FIX.jar`.
 3. Open your `.minecraft/mods` folder and **remove the original** `The-Man-From-The-Fog-1.4-1.20.1.jar` file.
 4. Drop `patched_FIX.jar` into your `mods` folder.
 
 ### 📞 Contacts:
-* ✈️ **Telegram:** [@luwvu](https://t.me)
+* ✈️ **Telegram:** [@luwvu](https://t.me/luwvu)
