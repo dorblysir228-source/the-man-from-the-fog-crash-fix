@@ -9,7 +9,7 @@
 * Код мода был успешно модифицирован и исправлен вручную через **Recaf**.
 
 ### 📥 Как установить:
-1. Перейдите во вкладку [Releases]https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases справа.
+1. Перейдите во вкладку [Releases](https://github.com/dorblysir228-source/the-man-from-the-fog-crash-fix/releases) справа.
 2. Скачайте файл `patched_FIX.jar`.
 3. Перейдите в папку `.minecraft/mods` и **удалите оригинальный файл** `The-Man-From-The-Fog-1.4-1.20.1.jar`.
 4. Поместите скачанный файл `patched_FIX.jar` в папку `mods`.
