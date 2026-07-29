@@ -19,7 +19,7 @@
 3. Поместите `patched_FIX_V2.jar` в папку `mods`.
 
 ### 📞 Контакты:
-- ✈️ **Telegram:** [@luwvu](t.me/luwvu)
+- ✈️ **Telegram:** [@luwvu](https://t.me/luwvu)
 
 ---
 
@@ -38,4 +38,4 @@ Unofficial crash fix for the horror mod **The Man From The Fog (v1.4)**.
 3. Drop `patched_FIX_V2.jar` into your `mods` folder.
 
 ### 📞 Contacts:
-- ✈️ **Telegram:** [@luwvu](t.me/luwvu)
+- ✈️ **Telegram:** [@luwvu](https://t.me/luwvu)
